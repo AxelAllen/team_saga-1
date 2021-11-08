@@ -15,6 +15,7 @@ Information about case numbers, restrictions and regulations is queried through 
 
 If you wish to try the Chatbot, you can find it in Telegram using the link `https://t.me/covid_19_chat_bot` 
 or by searching `@covid_19_chat_bot` in the Telegram App. The chatbot is called `Covid Chatbot(LGT)`. 
+
 *We are currently not able to host the Telegram app on a server so it is not guaranteed to work at the moment*.
 
 ## Requirements
